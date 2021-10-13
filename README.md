@@ -1,2 +1,2 @@
-# OceanBase601a
-601a数据库大赛
+# OceanBase
+数据库大赛
